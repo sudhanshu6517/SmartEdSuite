@@ -1,0 +1,17 @@
+name: smartedsuite
+description: SmartEdSuite Mobile App for SIH 2024
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=2.19.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  http: ^0.16.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/
