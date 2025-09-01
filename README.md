@@ -1,6 +1,6 @@
 # SmartEdSuite – AI-Powered Smart Education Platform 🚀
 
-> **SIH 2024 | All-in-One Classroom Solution**
+> **SIH 2025 | All-in-One Classroom Solution**
 
 SmartEdSuite is an intelligent, mobile-first education platform that brings together **multi-mode attendance**, **AI-driven insights**, **gamification**, and **real-time communication** for schools and colleges.
 
